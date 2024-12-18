@@ -1,0 +1,13 @@
+sudo ./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RDT5RNyXyT9bexA9dvs8FfqUiWeQu6Jyck.[rig name]-p 
+
+
+
+./hellminer -c stratum+tcp://eu.luckpool.net:3956 -u RDT5RNyXyT9bexA9dvs8FfqUiWeQu6Jyck.Rig001 -p x
+
+
+RDT5RNyXyT9bexA9dvs8FfqUiWeQu6Jyck
+
+
+./hellminer -c stratum+tcp://ap.luckpool.net:3960 -u RDT5RNyXyT9bexA9dvs8FfqUiWeQu6Jyck.Rig001 -p x
+
+
